@@ -1,0 +1,17 @@
+name = "CS584"
+uuid = "99e3e116-37a8-11ea-25f7-23b9060a5807"
+authors = ["Lars Ruthotto <lruthotto@emory.edu>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
+KrylovMethods = "9a2cd570-f05c-5dc1-9209-93ad6f5727f7"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
